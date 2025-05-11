@@ -1,6 +1,14 @@
 <div align="center">
-  <!-- GIF como "fondo" entre secciones -->
-  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" width="100%" alt="fondo-gif">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150">
+      </td>
+      <td>
+        <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" height="150">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
