@@ -18,12 +18,12 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hola estoy aqui 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h3 align="left">👩‍💻  Acerca de mi...</h3>
+<p align="left">Yo soy de Quito y vivo en Ambato - Ecuador<br><br>- 🔭 Soy estudiante de Ing. en T.I. <br>- 📚 Mi pasatiempo es cantar y programar <br>- ⚡ Me encanta viajar </p>
 
 ###
 
