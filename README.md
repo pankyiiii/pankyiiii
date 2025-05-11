@@ -3,6 +3,11 @@
   <!-- Aquí estaba la imagen/texto roto -->
 </div>
 
+<div align="center">
+  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qOHU4YThhOXo5cjc2NnZvZWNwczkzamtjY2txcHg5eWVwNTRndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNFfDeyLA20x4c0DmR/giphy.gif)"  />
+  <!-- Aquí estaba la imagen/texto roto -->
+</div>
+
 ###
 <div align="center">
   <img src="https://profile-counter.glitch.me/pankyiiii/count.svg?"  />
