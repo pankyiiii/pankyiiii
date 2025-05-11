@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  <br> <!-- Espacio entre los GIFs -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3eWRjOTJlYTY1dmZ3c3hhYzNoZ3Vjb2Q4OTZycnMzNmhta2dpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" height="150" alt="nuevo-gif">
+  <!-- GIF como "fondo" entre secciones -->
+  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" width="100%" alt="fondo-gif">
 </div>
 
 ###
