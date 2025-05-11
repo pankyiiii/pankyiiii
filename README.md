@@ -1,9 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  
-  <!-- Efecto néon mejorado -->
-  <br>
-  <img src="[https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=3000&pause=800&color=00D7FF&background=FF000000&width=435&lines=¡Bienvenido+a+mi+perfil!👋;Estudiante+de+TI💻;Amante+del+arte+y+viajes✈️;Code%20Never%20Sleeps🌙](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3eWRjOTJlYTY1dmZ3c3hhYzNoZ3Vjb2Q4OTZycnMzNmhta2dpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif)" />
+  <br> <!-- Espacio entre los GIFs -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3eWRjOTJlYTY1dmZ3c3hhYzNoZ3Vjb2Q4OTZycnMzNmhta2dpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" height="150" alt="nuevo-gif">
 </div>
 
 ###
