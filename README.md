@@ -1,7 +1,14 @@
-<div align="center" style="position:relative;">
-  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" style="opacity:0.3; width:60%; position:absolute; z-index:-1;">
-  <h1>¡Hola! Soy Pankyiiii</h1>
-  <!-- Tus badges y stats aquí -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150">
+      </td>
+      <td>
+        <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" height="150">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
