@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img width="600" height="35" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qOHU4YThhOXo5cjc2NnZvZWNwczkzamtjY2txcHg5eWVwNTRndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNFfDeyLA20x4c0DmR/giphy.gif"  />
+  <img width="400" height="35" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qOHU4YThhOXo5cjc2NnZvZWNwczkzamtjY2txcHg5eWVwNTRndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNFfDeyLA20x4c0DmR/giphy.gif"  />
   <!-- Ajusté width="100" y height="40" como ejemplo -->
 </div>
 
