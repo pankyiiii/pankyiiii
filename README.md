@@ -1,62 +1,62 @@
 <div align="center">
-  <!-- Banner minimalista (reemplázalo con tu imagen favorita) -->
-  <img src="https://i.imgur.com/6JQ8d7E.png" height="200" alt="banner-tech">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  
+  <!-- Efecto néon mejorado -->
   <br>
-  <!-- Texto animado serio -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=1000&color=2DAAE1&center=true&width=500&lines=Desarrolladora+en+formación+💻;Apasionada+por+la+tecnología+y+viajes+🌍" alt="Texto animado">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=22&duration=3000&pause=800&color=00D7FF&background=FF000000&width=435&lines=¡Bienvenido+a+mi+perfil!👋;Estudiante+de+TI💻;Amante+del+arte+y+viajes✈️;Code%20Never%20Sleeps🌙" />
 </div>
 
 ###
 
 <div align="center">
-  <!-- Redes Sociales (badges profesionales) -->
   <a href="https://www.youtube.com/@pankyiii" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge&logoWidth=25" />
   </a>
   <a href="https://www.facebook.com/pankyiii/?locale=es_ES" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.tiktok.com/@pankyiii" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
----
+###
 
-### 👩💻 **Sobre mí**
-**¡Hola!** Soy **Pankyiii**, tengo **25 años** y actualmente resido en **Ambato, Ecuador**.  
-- 🎓 Estudiante de **Ingeniería en Tecnologías de la Información**.  
-- 🎯 Enfocada en el desarrollo web y la innovación tecnológica.  
-- 🌱 Aprendiendo: JavaScript, Python y React.  
-- 🎵 **Pasatiempos:** Cantar, viajar y explorar nuevas culturas.  
+<h1 align="center">¡Hola! Soy Pankyiiii 👋</h1>
 
----
+###
 
-### 🛠 **Tecnologías**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,git,github,vscode,figma,mongodb&theme=light&perline=6" alt="tech-stack">
+### 👩💻 Acerca de mí
+¡Hola! Soy de Quito y actualmente vivo en Ambato, Ecuador 🇪🇨  
+- 🔭 Estudiante de Ingeniería en Tecnologías de la Información  
+- 📚 Mis pasatiempos son cantar 🎤 y programar 👩💻  
+- ⚡ Amo viajar y explorar nuevos lugares 🌍  
+
+###
+
+### 🛠 Lenguajes y herramientas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode" />
 </div>
 
----
+###
 
-### 📈 **Estadísticas**
+### 📊 Mis estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankyiiii&show_icons=true&theme=vue&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankyiiii&layout=compact&theme=vue&hide_border=true" width="45%">
+  <img src="https://streak-stats.demolab.com?user=pankyiiii&theme=radical&hide_border=false&border_radius=5&mode=weekly" height="220" />
   <br>
-  <!-- Gráfico de actividad profesional -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankyiiii&theme=github-light&hide_border=true&area=true" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankyiiii&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankyiiii&layout=compact&theme=radical" />
 </div>
 
----
-
-### 🌟 **Contribuciones destacadas**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pankyiiii/pankyiiii/output/github-contribution-grid-snake.svg" width="100%">
-</div>
-
----
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankyiiii&label=Visitas+al+perfil&color=2DAAE1&style=flat-square" alt="Contador de visitas">
+  <img src="https://profile-counter.glitch.me/pankyiiii/count.svg?"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankyiiii/pankyiiii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankyiiii/pankyiiii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pankyiiii/pankyiiii/output/pacman-contribution-graph.svg">
+</picture>
