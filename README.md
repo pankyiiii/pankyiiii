@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <img height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qOHU4YThhOXo5cjc2NnZvZWNwczkzamtjY2txcHg5eWVwNTRndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNFfDeyLA20x4c0DmR/giphy.gif"  />
-  <!-- Aquí estaba la imagen/texto roto -->
+  <img width="100" height="40" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9qOHU4YThhOXo5cjc2NnZvZWNwczkzamtjY2txcHg5eWVwNTRndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNFfDeyLA20x4c0DmR/giphy.gif"  />
+  <!-- Ajusté width="100" y height="40" como ejemplo -->
 </div>
 
 ###
