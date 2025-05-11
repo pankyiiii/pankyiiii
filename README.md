@@ -1,22 +1,6 @@
 <div align="center">
-  <table>
-    <!-- Primera fila con 2 GIFs -->
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150">
-      </td>
-      <td>
-        <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" height="150">
-      </td>
-    </tr>
-    
-    <!-- Segunda fila con 1 GIF centrado -->
-    <tr>
-      <td colspan="2" style="text-align:center">
-        <img src="https://media3.giphy.com/media/fNFfDeyLA20x4c0DmR/giphy.gif" height="150">
-      </td>
-    </tr>
-  </table>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <!-- Aquí estaba la imagen/texto roto -->
 </div>
 
 ###
