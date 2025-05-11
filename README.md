@@ -51,11 +51,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pankyiiii/count.svg?"  />
-</div>
 
-###
-<div align="center">
-  <img src="https://i.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="60%" alt="coding-gif">
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankyiiii/pankyiiii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankyiiii/pankyiiii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pankyiiii/pankyiiii/output/pacman-contribution-graph.svg">
+</picture>
